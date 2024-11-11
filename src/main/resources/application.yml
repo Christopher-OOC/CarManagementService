@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: OrderResourceServer
+  datasource:
+    generateUniqueName: false
+    name: carservicedb
+  jpa:
+    show-sql: true
